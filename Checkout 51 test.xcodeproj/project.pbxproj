@@ -27,6 +27,7 @@
 		44773B97282C986400075C2E /* UIColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44773B96282C986400075C2E /* UIColor.swift */; };
 		44773B99282C992200075C2E /* UIImage+Icons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44773B98282C992200075C2E /* UIImage+Icons.swift */; };
 		44773B9B282C99F700075C2E /* AlertView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44773B9A282C99F700075C2E /* AlertView.swift */; };
+		44773B9D282D951E00075C2E /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 44773B9C282D951E00075C2E /* README.md */; };
 		48E689DB4E98E087F287DBAF /* Pods_Checkout_51_testTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F7CBD5ED0C388F34D5DF9524 /* Pods_Checkout_51_testTests.framework */; };
 /* End PBXBuildFile section */
 
@@ -73,6 +74,7 @@
 		44773B96282C986400075C2E /* UIColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIColor.swift; sourceTree = "<group>"; };
 		44773B98282C992200075C2E /* UIImage+Icons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImage+Icons.swift"; sourceTree = "<group>"; };
 		44773B9A282C99F700075C2E /* AlertView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertView.swift; sourceTree = "<group>"; };
+		44773B9C282D951E00075C2E /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		6407594FAF5D9D87FD7E5A0C /* Pods_Checkout_51_test.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Checkout_51_test.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		952382425A573D8005D93EDF /* Pods-Checkout 51 test-Checkout 51 testUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Checkout 51 test-Checkout 51 testUITests.release.xcconfig"; path = "Target Support Files/Pods-Checkout 51 test-Checkout 51 testUITests/Pods-Checkout 51 test-Checkout 51 testUITests.release.xcconfig"; sourceTree = "<group>"; };
 		AF592E5596263FD2F83027BB /* Pods_Checkout_51_test_Checkout_51_testUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Checkout_51_test_Checkout_51_testUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -134,6 +136,7 @@
 		44773B4F282C7E8400075C2E /* Checkout 51 test */ = {
 			isa = PBXGroup;
 			children = (
+				44773B9C282D951E00075C2E /* README.md */,
 				44773B87282C837500075C2E /* Views */,
 				44773B84282C835000075C2E /* Utility */,
 				44773B81282C81D500075C2E /* Model */,
@@ -329,6 +332,7 @@
 			files = (
 				44773B5D282C7E8700075C2E /* LaunchScreen.storyboard in Resources */,
 				44773B5A282C7E8700075C2E /* Assets.xcassets in Resources */,
+				44773B9D282D951E00075C2E /* README.md in Resources */,
 				44773B58282C7E8400075C2E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
