@@ -1,0 +1,6 @@
+framework module Pods_Checkout_51_test {
+  umbrella header "Pods-Checkout 51 test-umbrella.h"
+
+  export *
+  module * { export * }
+}
