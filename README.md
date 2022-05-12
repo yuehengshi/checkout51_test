@@ -1,9 +1,9 @@
 # checkout51_test
-1.  I'm using the MVVM 
+1.  MVVM 
 
 2.  Model
 
-    A.  I uploaded the json file to Firebase Storage, and I'm chose "Alamofire" to do the network request 
+    A.  I uploaded the json file to Firebase Storage, and I chose "Alamofire" to do the network request 
     
     B.  I used Codable Struct to decode json data to format it
     
